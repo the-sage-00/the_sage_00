@@ -1,62 +1,61 @@
-<div align="center">
+<h2 align="left">Hi 👋! My name is Rishi Kataria and I'm a Co-Founder of IgniteU, MERN Developer & AI Automation Enthusiast from Jaipur, India.</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Rishi+Kataria;Co-Founder+of+IgniteU;AI+Automation+%7C+MERN+Developer;Building+Communities+and+Real+Products&center=true&width=600&height=45)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### 👋 About Me  
-- Computer Science student at **MNIT Jaipur**  
-- **Co-Founder of IgniteU** — focused on student mentorship & tech community building  
-- Interested in **Agentic AI Workflows**, **Automation**, and **Scalable Web Systems**
-- Actively building systems that **impact real student ecosystems**
-
----
-
-### 🚀 Projects
-
-| Project | Role | Description | Link |
-|--------|------|-------------|------|
-| **IgniteU** | Co-Founder | Mentorship + interest discovery platform; 50+ offline sessions & 20+ online programs | https://igniteu.netlify.app |
-| **CONSOLE** | Founder & Lead | Centralized programming culture platform w/ leaderboards, contests & resources | https://console.net.in |
-| **Campora** | Developer | Campus utility + academics hub (notes, PYQs, marketplace, Upahar delivery) | https://campora.co.in |
-| **E-Cell MNIT Portal** | Developer | Campus entrepreneurship & event platform | https://ecellmnit.org |
-
----
-
-### 🛠 Tech Stack
+###
 
 <div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,firebase,docker,git,linux)]()
-
+  <img src="https://github-readme-stats.vercel.app/api?username=the-sage-00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-sage-00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-### 📊 GitHub Analytics
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<div align="center">
+###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-sage-00&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-sage-00&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=the-sage-00&theme=radical)
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
 
----
+###
 
-### 🧑‍💻 Coding Profiles
-
-| Platform | Link |
-|---------|------|
-| **LeetCode** | https://leetcode.com/u/the_sage_mp33/ |
-| **GitHub** | https://github.com/the-sage-00 |
-| **LinkedIn** | https://www.linkedin.com/in/rishi-kataria-14998331b |
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/akshay2211/akshay2211/master/assets/wave.svg" width="100%" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/rishi-kataria-14998331b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:sainirishi2023@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://leetcode.com/u/the_sage_mp33/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
+  </a>
+  <a href="https://github.com/the-sage-00" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
